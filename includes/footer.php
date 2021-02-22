@@ -2,12 +2,7 @@
 
 <script src="../js/appadmin.js"></script>
 
-<!--<script src="../js/alphacode.js"></script>
 
-<script src="../js/jquery.datetimepicker.full.js"></script>
-
-<script src="../js/selectbox.js"></script>
--->
 <script type="text/javascript">
 
 
